@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="Братва рвётся к благочестию.png" width="100%" alt="GitHub Banner"/>
 </p>
-## Hi there 👋
 
+## Hi there 👋
 <!--
 **olzhsz/olzhsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
