@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Yo, I'm Olzhas 👋</h1>
-<h3 align="center">Junior System Analyst</h3>
+<h3 align="center">Junior Project Manager</h3>
 <!--
 **olzhsz/olzhsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
